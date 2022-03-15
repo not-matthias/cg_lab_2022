@@ -1,0 +1,15 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "This repository contains the labs for the course Computer Graphics at the Johannes Kepler University Linz, Austria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
